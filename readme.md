@@ -13,8 +13,7 @@ updated: 17 Aug 2022 -->
 
 # OScienceLaboratories (OSL)
 
-From the creator of, well this, comes a science mod aimed at adding stock alike science experiments. They are designed to be stock alike, and fit in right along with other mods. There is currently six parts, a pee Experiment, a science lab, a sonic emitter, a atmospheric scoop, a electrostatic analyzer, and a alpha magnetic spectrometer. Any and all feedback is appreciated, as this is my first ever mod. I have a Trello so you can see what I want to do with this mod. I know that textures aren't good by any means, but I am working on that and have some amazing concepts already. Have fun crashing!
-
+Science parts addon adding seven (7) stock-alike science experiments for Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`pizzaguy`][pizzaguy]
@@ -23,18 +22,21 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/img/HeroLogo_1920x1920.png" alt="OScienceLaboratories Hero" width="50%" height="50%">
 
+### Forward from [pizzaguy][pizzaguy]
+>
+> From the creator of, well this, comes a science mod aimed at adding stock alike science experiments. They are designed to be stock alike, and fit in right along with other mods. There is currently six parts, a pee Experiment, a science lab, a sonic emitter, a atmospheric scoop, a electrostatic analyzer, and a alpha magnetic spectrometer. Any and all feedback is appreciated, as this is my first ever mod. I have a Trello so you can see what I want to do with this mod. I know that textures aren't good by any means, but I am working on that and have some amazing concepts already. Have fun crashing!
+
 ---
-Pee Experiment
 
--Science Lab (Removed until V0.0.7 because of bugs)
+* Included Parts:
+  * Alpha Magnetic Spectrometer
+  * Electrostatic Analyzer
+  * Pee Experiment
+  * Atmospheric scoop
+  * Radio Decay
+  * Science Lab
+  * Sonic Emitter
 
--Sonic Emitter
-
--Atmospheric scoop
-
--Electrostatic Analyzer
-
--Alpha Magnetic Spectrometer
 ### See More
 
 * See our [Parts Catalog][MOD:parts] for part pictures
@@ -48,10 +50,10 @@ Pee Experiment
 
 ### Help Wanted
 
+> * New and Variant Textures
 > * Compatibility patches
+> * more *lorem ipsum* text for parts and science
 > * Contracts for these glorious parts
-> * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates to Unity 2019
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
@@ -94,12 +96,11 @@ or [![CKAN][CKAN:img]][ckan]
 
 ### Supports
 
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Tags
 
@@ -170,8 +171,8 @@ science, parts, flags, agent
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/131997-*/ "KSP Forum"
 
 <!--- license provenance -->
-[LIC:0:url]: https://spdx.org/licenses/MIT.html "Expat-MIT"
-[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "Expat-MIT"
+[LIC:0:url]: https://opensource.org/licenses/MIT "Expat-MIT"
+[LIC:0:log]: https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "Expat-MIT"
 [LIC:0:shd]: https://img.shields.io/badge/License-Expat/MIT-3DA639?labelColor=black&logoColor=3DA639&logo=OpenSourceInitiative&style=plastic "Expat-MIT"
 
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
@@ -215,7 +216,7 @@ science, parts, flags, agent
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-SCIENCE-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
