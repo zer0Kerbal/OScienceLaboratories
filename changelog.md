@@ -97,7 +97,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.3.5-release - `<Archival>`
 
-* 
+* 07 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Fixed electrostatic analzyer not working
