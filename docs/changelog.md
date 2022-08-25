@@ -71,7 +71,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.5.0-release - `<Archival>`
 
-* 
+* 12 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Added new science logs
