@@ -2,13 +2,40 @@
   
 | modName    | OScienceLaboratories (OSL)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | Expat-MIT                                                         |
+| license    | GPL-2.0                                                           |
 | author     | pizzaguy and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/OScienceLaboratories)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories) |
 | spacedock  | (https://spacedock.info/mod/161)                                  |
 | ckan       | OScienceLaboratories                                              |
+
+## Version 0.9.99.0-adoption - `<Thank you pizzaguy>`
+
+* 23 Aug 2022
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 0.9.99.0
+
+
+  * closes #10 - Create OScienceLaboratories.cfg
+  * closes #11 - Update License
+  * closes #12 - Localization - Master
+  * closes #13 - English <us-en.cfg>
+  * closes #30 - Part Localization
+  * closes #5 - Create GitHub Pages
+  * closes #6 - Create HeroLogo.png
+  * closes #8 - Create Localization directory and contents
+  * closes #9 - Part Asset Updates
+
+
+### Status 0.9.99.0
+
+* Issues
+  * closes #1 - OScienceLaboratories 0.9.99.0-adoption (OSL) `<Thank you pizzaguy>` edition
+  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #4 - 0.9.99.0 Create Social Media Presence
 
 ---
 
