@@ -16,7 +16,7 @@
 * Released for Kerbal Space Program 1.12.3
 
 ### Summary 0.9.99.0
-
+KSP_VERSION_MAX
 
   * closes #10 - Create OScienceLaboratories.cfg
   * closes #11 - Update License
