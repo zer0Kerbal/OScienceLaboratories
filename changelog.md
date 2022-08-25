@@ -30,7 +30,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 ### Status 0.0.7.0
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #36 - 0.0.7.0-release
 
 ---
 
@@ -50,7 +51,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 ### Status 0.0.6.0
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #35 - 0.0.6.0-release
 
 ---
 
@@ -69,7 +71,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 ### Status 0.0.5.0
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #34 - 0.0.5.0-release
 
 ---
 
@@ -87,7 +90,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 ### Status 0.0.4.0
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #33 - 0.0.4.0-release
 
 ---
 
@@ -104,7 +108,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 ### Status 0.0.3.5
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #32 - 0.0.3.5-release
 
 ---
 
@@ -122,6 +127,8 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 * Issues
 
+  * updates #7 - Archival Releases
+  * closes #31 - 0.0.3.0-release
 
 ---
 
@@ -132,10 +139,5 @@ Version 0.0.1.0-release - `<Archival>`
 
 * Added sonic emitter
 * Added radial scoop
-
-### Status 0.0.1.0
-
-* Issues
-
 
 ---
