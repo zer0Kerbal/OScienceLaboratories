@@ -24,7 +24,17 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/img/HeroLogo_1920x1920.png" alt="OScienceLaboratories Hero" width="50%" height="50%">
 
 ---
+Pee Experiment
 
+-Science Lab (Removed until V0.0.7 because of bugs)
+
+-Sonic Emitter
+
+-Atmospheric scoop
+
+-Electrostatic Analyzer
+
+-Alpha Magnetic Spectrometer
 ### See More
 
 * See our [Parts Catalog][MOD:parts] for part pictures
