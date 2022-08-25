@@ -1,0 +1,24 @@
+This is the changelog for the mod OScience Labrotories created by Pizzaguy499 for Kerbal Space Program
+
+To do:
+-RSS and planet pack science defs
+-Pee sampler (?)
+-Telescopes!
+-Anemometer
+-Retinal Scanner (In science lab?)
+-Other things
+
+
+
+
+v0.0.1
+-Added Radial Atmospheric Scoop
+-Added Electro Static Analyzer
+
+
+
+V0.0.3
+-Added Science Lab
+-Added pee container
+-Added new Scienec logs
+-Added electro static analyzer
