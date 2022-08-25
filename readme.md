@@ -24,7 +24,17 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/img/HeroLogo_1920x1920.png" alt="OScienceLaboratories Hero" width="50%" height="50%">
 
 ---
+Pee Experiment
 
+-Science Lab (Removed until V0.0.7 because of bugs)
+
+-Sonic Emitter
+
+-Atmospheric scoop
+
+-Electrostatic Analyzer
+
+-Alpha Magnetic Spectrometer
 ### See More
 
 * See our [Parts Catalog][MOD:parts] for part pictures
@@ -191,8 +201,6 @@ science, parts, flags, agent
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
 [fs]: https://github.com/snjo/Firespitter/ "Firespitter"
 [far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
