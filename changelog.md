@@ -85,7 +85,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.5.0-release - `<Archival>`
 
-* 
+* 12 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Added new science logs
@@ -105,7 +105,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.4.0-release - `<Archival>`
 
-* 
+* 12 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * More science logs
@@ -124,7 +124,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.3.5-release - `<Archival>`
 
-* 
+* 07 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Fixed electrostatic analzyer not working
@@ -142,7 +142,7 @@ This is the offical changelog for the Kerbal Space Program mod OScience Laborato
 
 ## Version 0.0.3.0-release - `<Archival>`
 
-* 
+* 07 Feb 2016
 * Released for Kerbal Space Program 1.0.5
 
 * Added science lab

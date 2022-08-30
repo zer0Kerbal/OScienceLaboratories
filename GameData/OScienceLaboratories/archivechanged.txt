@@ -1,6 +1,6 @@
-# MOD-NAME (ABBV)   
+# OScienceLaboratories (OSL)
 
-## AUTH-NAME
+## pizzaguy
 
 this archive has been modified with any or all of the following:
 * structure
@@ -13,8 +13,8 @@ this archive has been modified with any or all of the following:
 * contents added
   * Attributions.htm
   * changelog.md
-  * license.txt
+  * Expat-MIT.txt
   * ManualInstallation.htm
-  * MOD-NAME.version
+  * OScienceLaboratories.version
   * this readme.txt
 * by zer0Kerbal
