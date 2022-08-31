@@ -11,8 +11,12 @@
 | ckan       | OScienceLaboratories                                              |
 
 
-osl-alphaSpectrometer --> osl-osl-alphaSpectrometer
+* file name
+  * alphaSpectrometer --> osl-alphaSpectrometer
+  * atmoExperiment --> osl-radialScoop
 
+* part name
+  * radialScoop --> osl-radialScoop
 
 
 AtmoScoop.mbm --> .png
