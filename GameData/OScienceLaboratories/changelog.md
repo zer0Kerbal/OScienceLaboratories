@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | OScienceLaboratories (OSL)                                        |
+| modName    | OScience Laboratories (OSL)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | pizzaguy and zer0Kerbal                                           |
