@@ -10,6 +10,17 @@
 | spacedock  | (https://spacedock.info/mod/161)                                  |
 | ckan       | OScienceLaboratories                                              |
 
+
+osl-alphaSpectrometer --> osl-osl-alphaSpectrometer
+
+
+
+AtmoScoop.mbm --> .png
+Detector.mbm --> .png
+radioDecayBase.mbm --> .png
+12mb --> 1.95mb
+
+
 ## Version 0.9.99.0-adoption - `<Thank you pizzaguy>`
 
 * 23 Aug 2022
