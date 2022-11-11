@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | OScienceLaboratories (OSL)                                        |
+| modName    | OScience Laboratories (OSL)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | Expat-MIT                                                         |
 | author     | pizzaguy and zer0Kerbal                                           |
