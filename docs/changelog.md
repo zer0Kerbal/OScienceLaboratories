@@ -7,13 +7,13 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-OScienceLaboratories (OSL)
+OScience Laboratories (OSL)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | OScienceLaboratories (OSL)                                        |
+| modName    | OScience Laboratories (OSL)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | Expat-MIT                                                         |
 | author     | pizzaguy and zer0Kerbal                                           |

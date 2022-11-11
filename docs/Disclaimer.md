@@ -2,23 +2,22 @@
 permalink: /Disclaimer.html
 title: Disclaimer
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Disclaimer.md v1.0.1.0
-OScienceLaboratories (OSL)
+OScience Laboratories (OSL)
 created: 01 Apr 2022
 updated: 21 Jul 2022
 
 based upon work by godarklight
 -->
 
-# OScienceLaboratories (OSL)
+# OScience Laboratories (OSL)
 
 [Home](/index.md)
 
-## Disclaimer by [`@godarklight`][godarklight]
+## Disclaimer by [`zer0Kerbal`][zer0Kerbal]
 
 > Use of this mod may result in the following side effects:
 >
