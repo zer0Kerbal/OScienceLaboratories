@@ -9,6 +9,7 @@
 - [Attributions](Attributions.md)
 - [Disclaimer](Disclaimer.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
+- [License](License.md)
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
