@@ -32,7 +32,7 @@ based upon work by LisiasT -->
 
 ### Family Photo
 
-<img src="https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/OScienceLaboratories/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
 
 ### Mining Ore
 
@@ -70,6 +70,11 @@ Finalize your build and load up the resources, and
 
 ![Finalize build!][IMG:hero:2e]
 [top](#table-of-contents))
+
+  <img src="https://github.com/zer0Kerbal/OScienceLaboratories/blob/master/img/Hero-01.png" alt="OScience Laboratores" width="100%" height="100%">
+  <img src="https://github.com/zer0Kerbal/OScienceLaboratories/blob/master/img/Hero-02.png" alt="OScience Laboratores" width="100%" height="100%">
+  <img src="https://github.com/zer0Kerbal/OScienceLaboratories/blob/master/img/Hero-03.png" alt="OScience Laboratores" width="100%" height="100%">
+  <img src="https://github.com/zer0Kerbal/OScienceLaboratories/blob/master/img/Hero-04.png" alt="OScience Laboratores" width="100%" height="100%">
 
 [IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
 [IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
