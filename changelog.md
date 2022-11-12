@@ -27,8 +27,10 @@ radioDecayBase.mbm --> .png
 
 ## Version 0.9.99.0-adoption - `<Thank you pizzaguy>`
 
-* 23 Aug 2022
-* Released for Kerbal Space Program 1.12.3
+* Released
+  * 10 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
 
 ### Summary 0.9.99.0
 
