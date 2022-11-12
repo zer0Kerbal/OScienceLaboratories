@@ -11,7 +11,7 @@ repository:
   name: OScienceLaboratories
 
   # A short description of the repository that will show up on GitHub
-  description: Science parts addon adding seven (7) stock-alike science experiments for Kerbal Space Program.
+  description: Science parts addon consisting of seven science experiments, one science lab, and five novel science experiments for Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/
