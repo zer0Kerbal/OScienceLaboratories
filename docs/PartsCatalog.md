@@ -21,11 +21,37 @@ updated: 01 Oct 2022 -->
 
 Science parts addon adding seven (7) stock-alike science experiments for Kerbal Space Program.
 
----
+* Sonic Emitter
 
-* Mallet 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-alphaSpectrometer_icon.png" alt="Alphaspectrometer" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/GameData/OScienceLaboratories/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
+* Alpha Spectrometer
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-electroAnalyzer_icon.png" alt="Electroanalyzer" width="25%" height="25%" />
+
+* Electro Analyzer
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-peeContainer_icon.png" alt="Pee Container" width="25%" height="25%" />
+
+* Pee Container
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-peeExperiment_icon.png" alt="Pee Experiment" width="25%" height="25%" />
+
+* Pee Experiment
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-radialScoop_icon.png" alt="Radial Scoop" width="25%" height="25%" />
+
+* Radial Scoop
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-radioDecay_icon.png" alt="Radiodecay" width="25%" height="25%" />
+
+* Radio Decay
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-scienceLab_icon.png" alt="Science Lab" width="25%" height="25%" />
+
+* Science Lab
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/docs/@thumbs/osl-sonicEmitter_icon.png" alt="Sonic Emitter" width="25%" height="25%" />
 
 ---
 
