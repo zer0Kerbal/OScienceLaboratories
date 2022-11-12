@@ -19,7 +19,7 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-Science parts addon adding seven (7) stock-alike science experiments for Kerbal Space Program.
+Science parts addon consisting of seven science experiments, one science lab, and five novel science experiments for Kerbal Space Program.
 
 * Sonic Emitter
 
