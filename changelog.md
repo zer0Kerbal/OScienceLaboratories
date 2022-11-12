@@ -10,6 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/161)                                  |
 | ckan       | OScienceLaboratories                                              |
 
+Localized Science Experiments (5)
+ScienceDefs.cfg v1.1.0.0
+
 
 * file name
   * alphaSpectrometer --> osl-alphaSpectrometer
