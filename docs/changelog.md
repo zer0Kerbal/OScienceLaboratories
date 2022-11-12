@@ -2,26 +2,73 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- 
-hdr-changelog.md v1.0.0.0
+<!-- hdr-changelog.md v1.0.0.1
 OScience Laboratories (OSL)
 created: 13 May 2022
-updated:
-CC BY-ND 4.0 by zer0Kerbal
---># Changelog  
+updated: 05 Nov 2022
+CC BY-ND 4.0 by zer0Kerbal -->  
+# Changelog  
   
 | modName    | OScience Laboratories (OSL)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | Expat-MIT                                                         |
+| license    | GPL-2.0                                                           |
 | author     | pizzaguy and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/OScienceLaboratories)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories) |
 | spacedock  | (https://spacedock.info/mod/161)                                  |
 | ckan       | OScienceLaboratories                                              |
+
+Localized Science Experiments (5)
+ScienceDefs.cfg v1.1.0.0
+
+
+* file name
+  * alphaSpectrometer --> osl-alphaSpectrometer
+  * atmoExperiment --> osl-radialScoop
+
+* part name
+  * radialScoop --> osl-radialScoop
+
+
+AtmoScoop.mbm --> .png
+Detector.mbm --> .png
+radioDecayBase.mbm --> .png
+12mb --> 1.95mb
+
+
+## Version 0.9.99.0-adoption - `<Thank you pizzaguy>`
+
+* Released
+  * 10 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 0.9.99.0
+
+KSP_VERSION_MAX
+
+  * closes #10 - Create OScienceLaboratories.cfg
+  * closes #11 - Update License
+  * closes #12 - Localization - Master
+  * closes #13 - English <us-en.cfg>
+  * closes #30 - Part Localization
+  * closes #5 - Create GitHub Pages
+  * closes #6 - Create HeroLogo.png
+  * closes #8 - Create Localization directory and contents
+  * closes #9 - Part Asset Updates
+
+
+### Status 0.9.99.0
+
+* Issues
+  * closes #1 - OScienceLaboratories 0.9.99.0-adoption (OSL) `<Thank you pizzaguy>` edition
+  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #4 - 0.9.99.0 Create Social Media Presence
 
 ---
 
