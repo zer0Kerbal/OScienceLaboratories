@@ -13,7 +13,7 @@ updated: 04 Oct 2022 -->
 
 # OScience Laboratories (OSL)
 
-Science parts addon of seven (7) stock-alike science experiments for Kerbal Space Program.
+Science parts addon consisting of seven science experiments, one science lab, and five novel science experiments for Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`pizzaguy`][pizzaguy]
