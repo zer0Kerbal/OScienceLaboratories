@@ -34,8 +34,152 @@ title="GitHub IO" alt="Pages" /></a></p>
 <div style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center"><h4>
 <b>For best results - DO A CLEAN INSTALL; DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories/files">CurseForge</a></p></div>
 
+<h2 id="adoption-by-zer0kerbal">Adoption by zer0Kerbal</h2>
 <h2 id="summary">Summary</h2>
+<ul>
+<li>Adopted by zer0Kerbal</li>
+<li>lint, update, and localize</li>
+<li>new agency, flag, and more</li>
+</ul>
 <h2 id="changes">Changes</h2>
+<h3 id="config">Config</h3>
+<ul>
+<li>Create
+<ul>
+<li>[ghostparts.cfg]</li>
+<li>this patch which will go away</li>
+</ul></li>
+</ul>
+<h3 id="create-agency">Create Agency</h3>
+<ul>
+<li>Create
+<ul>
+<li>Agency/Agents.cfg</li>
+<li>create <em>scaled.truecolor (64x40)</em></li>
+<li>create flag (512x320)</li>
+</ul></li>
+</ul>
+<h3 id="parts-09990">Parts 0.9.99.0</h3>
+<ul>
+<li>Lint and update</li>
+<li>Rename
+<ul>
+<li>file name
+<ul>
+<li>xxx --&gt; osl-xxx</li>
+</ul></li>
+<li>part name
+<ul>
+<li>xxx --&gt; osl-xxx</li>
+</ul></li>
+</ul></li>
+</ul>
+<h3 id="asset-updates-09990">Asset Updates 0.9.99.0</h3>
+<ul>
+<li>create Assets/ folder</li>
+<li>convert from mesh to MODEL</li>
+<li>rename
+<ul>
+<li>models to unique names</li>
+<li>textures to unique names</li>
+</ul></li>
+<li>update
+<ul>
+<li>model pointers (.png et al to .dds)</li>
+<li>model texture pointers to new names</li>
+</ul></li>
+<li>relocate assets to Assets/</li>
+<li>eliminate
+<ul>
+<li>duplicate textures
+<ul>
+<li>AtmoScoop.mbm --&gt; .png</li>
+<li>Detector.mbm --&gt; .png</li>
+<li>radioDecayBase.mbm --&gt; .png</li>
+<li>12mb --&gt; 1.95mb</li>
+</ul></li>
+<li>duplicate models</li>
+</ul></li>
+<li>relocate part.cfg to Parts/</li>
+<li>closes #9 - Part Asset Updates</li>
+</ul>
+<h3 id="docs-09990">docs/ 0.9.99.0</h3>
+<ul>
+<li>Add
+<ul>
+<li>[<code>_config.yml</code>]</li>
+<li>[Attribution.md] v1.0.7.1</li>
+<li>[ManualInstallation.md] v1.1.8.0</li>
+<li>[404.md] v1.0.3.2</li>
+<li>[LegalMumboJumbo.md] v1.0.5.1</li>
+<li>[Localizations.md] v1.1.7.0</li>
+<li>[Marketing.md] v1.0.1.0</li>
+<li>[Notices.md] v1.0.1.0</li>
+<li>[PartsCatalog.md] v1.1.4.1</li>
+<li>[Why.md] v1.1.0.0</li>
+</ul></li>
+<li>Create
+<ul>
+<li>@thumbs/</li>
+<li>add thumbnails</li>
+<li>Hero.png</li>
+</ul></li>
+<li>Update .version file
+<ul>
+<li>remove [KSP_VERSION_MAX]</li>
+</ul></li>
+<li>closes #5 - Create GitHub Pages</li>
+<li>closes #6 - Create HeroLogo.png</li>
+</ul>
+<h3 id="localization-09990">Localization 0.9.99.0</h3>
+<ul>
+<li>Create
+<ul>
+<li>Localization/
+<ul>
+<li>&lt;en-us.cfg&gt; v1.1.0.0</li>
+<li>[readme.md] v2.1.2.0</li>
+<li>[quickstart.md] v1.0.1.1</li>
+</ul></li>
+</ul></li>
+<li>Add
+<ul>
+<li>[OScienceLaboratories.cfg] v1.0.0.0
+<ul>
+<li>adds localized tags to parts</li>
+</ul></li>
+</ul></li>
+<li>&lt;ScienceDefs.cfg&gt; v1.1.0.0
+<ul>
+<li>Localized Science Experiments (5)</li>
+</ul></li>
+<li>closes #8 - Create Localization directory and contents</li>
+<li>closes #10 - Create OScienceLaboratories.cfg</li>
+<li>updates #12 - Localization - Master</li>
+<li>closes #13 - English &lt;us-en.cfg&gt;</li>
+<li>closes #30 - Part Localization</li>
+<li>closes #46 - Localize Science Experiments</li>
+</ul>
+<h3 id="update-license-09990">Update License 0.9.99.0</h3>
+<ul>
+<li>Update License: GPL-2.0
+<ul>
+<li>was: Expat-MIT</li>
+</ul></li>
+<li>closes #11 - Update License</li>
+</ul>
+<h3 id="status-09990">Status 0.9.99.0</h3>
+<ul>
+<li>Issues
+<ul>
+<li>closes #1 - OScienceLaboratories 0.9.99.0-adoption (OSL)
+<code>&lt;Thank you pizzaguy&gt;</code> edition</li>
+<li>closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo</li>
+<li>closes #3 - 0.9.99.0 Create Documentation</li>
+<li>closes #4 - 0.9.99.0 Create Social Media Presence</li>
+</ul></li>
+</ul>
+<hr />
 <h3 id="-pages--changelog--discussions--known-issues-">| <a
 href="https://zer0kerbal.github.io/OScienceLaboratories/"
 title="GitHub Pages">Pages</a> | <a
